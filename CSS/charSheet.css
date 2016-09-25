@@ -1,0 +1,64 @@
+th{
+    border:2px solid black;
+}
+#DQtitle{
+    width:30%;
+}
+#charName{
+    text-align: left;
+}
+table.baseST{
+    width:100%;
+    table-layout: fixed;
+    float:right;
+    margin-left: auto;
+    margin-right: 4%;
+    font-size: 1.5vw;
+}
+table.baseST tbody{
+    font-size: 1vw;
+}
+table{
+    width:100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+#pic{
+    background-color: azure;
+    width:35%;
+    height:100px;
+}
+.stats{
+    width: 83%;
+    margin-left: 20%; 
+}
+div.Weapons td{
+    border:2px dotted black;
+}
+div.Weapons{
+    display:inline-block;
+    width:55%;
+    margin-left: 16.76%;
+    font-size: 18pt;
+}
+div.Armor{
+    display:inline-block;
+    width:27.65%;
+    font-size: 13pt;
+}
+div.Armor td{
+    border:2px dotted black;
+}
+.name{
+    width:50%; 
+}
+.nameARM{
+    width:65%;   
+}
+.nameSHLD{
+    width:55%;   
+}
+button{
+    font-size: 1vw;
+}
+
